@@ -6,5 +6,7 @@ How to :
 2. fill the 'TOKEN' with ur discord token
 3. run main.py
 4. done(?)
-**SAFE! NO LOGGER, NO TOKEN GRABBER! I SWEAR!**
+
+
+**THIS SCRIPT IS SAFE! NO LOGGER, NO TOKEN GRABBER! I SWEAR!**
 
