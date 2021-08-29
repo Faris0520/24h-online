@@ -2,4 +2,4 @@
 just da script r making ur discord account 24hour online :scream:
 
 
-**SAFE! NO LOGGER, NO TOKEN GRABBER!**
+**SAFE! NO LOGGER, NO TOKEN GRABBER! I SWEAR!**
