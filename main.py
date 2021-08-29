@@ -13,3 +13,4 @@ async def on_ready():
 
 keep_alive.keep_alive()
 client.run(os.getenv("TOKEN"), bot=False)
+ 
